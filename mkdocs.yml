@@ -1,6 +1,7 @@
 site_name: DevOps Den
 theme:
   name: material
+  custom_dir: overrides
 
 plugins:
   - search

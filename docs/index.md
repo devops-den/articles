@@ -1,6 +1,8 @@
 ---
 date:
   created: 2024-11-13
+layout: default
+title: DevOps Den
 ---
 <!-- # 🚀 DevOps Den – Knowledge Hub
 
@@ -130,11 +132,6 @@ We welcome your contributions! Join us to:
 > DevOps is a journey. Let's walk it together. 🌍
 
 --- -->
-
----
-layout: default
-title: DevOps Den
----
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=devops-den.articles)
 ![Stars](https://img.shields.io/github/stars/devops-den/articles?style=social)
