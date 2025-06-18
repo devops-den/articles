@@ -1,0 +1,13 @@
+# 👇 Controls sidebar structure
+
+# Order and group pages
+- index.md
+- Guides:
+    - guides/github-actions.md
+    - guides/kubernetes.md
+    - guides/terraform.md
+- Blog:
+    - blog/posts/kafka-offset.md
+    - blog/posts/messaging-app.md
+    - blog/docker-tips.md
+    - blog/secure-cicd.md
