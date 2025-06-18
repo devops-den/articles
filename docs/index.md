@@ -135,7 +135,7 @@ We welcome your contributions! Join us to:
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=devops-den.articles)
 ![Stars](https://img.shields.io/github/stars/devops-den/articles?style=social)
-👉 Got questions or feedback? [Join our GitHub Discussions](https://github.com/devops-den/articles/discussions)
+💬 **Got questions or feedback? [Join our GitHub Discussions](https://github.com/devops-den/articles/discussions)** — let’s learn together!
 
 
 # 🚀 Welcome to DevOps Den

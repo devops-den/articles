@@ -2,6 +2,7 @@
 
 # Order and group pages
 - index.md
+- discussions.md
 - Guides:
     - guides/github-actions.md
     - guides/kubernetes.md
