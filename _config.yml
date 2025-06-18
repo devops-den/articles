@@ -1,0 +1,14 @@
+title: DevOps Den
+description: Learn DevOps with real-world projects, CI/CD, Kubernetes, Terraform, and more.
+author: DevOps Den Team
+baseurl: "" # For user.github.io repo
+url: "https://devops-den.github.io"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Social SEO
+twitter_username: devopsden
+github_username: devops-den
