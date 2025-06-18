@@ -1,26 +1,13 @@
-site_name: DevopsDen
-site_description: Discuss about devops activities
-site_url: https://github.com/devops-den/
-
+site_name: DevOps Den
 theme:
   name: material
-  features:
-    - navigation.indexes
 
 plugins:
-  - blog:
-      # blog_dir: blog
-      # blog_toc: true
-      post_date_format: full
-      post_url_format: "{date}/{slug}"
-      archive_date_format: yyyy
-      pagination: true
-      pagination_per_page: 5
-      pagination_url_format: "page/{page}"
-      pagination_format: "~2~"
-      pagination_if_single_page: true
   - search
-
-nav:
-  - Blog:
-    - blog/index.md
+  - awesome-pages
+  - minify:
+      minify_html: true
+  - git-revision-date-localized
+repo_url: https://github.com/devops-den/articles
+repo_name: devops-den/articles
+edit_uri: edit/main/docs/
